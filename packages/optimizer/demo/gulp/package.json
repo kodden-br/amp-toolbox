@@ -9,11 +9,11 @@
   "author": "The AMPHTML Team",
   "license": "Apache-2.0",
   "dependencies": {
-    "glob": "7.1.6"
+    "glob": "13.0.6"
   },
   "devDependencies": {
-    "@ampproject/toolbox-optimizer": "2.5.14",
-    "gulp": "^4.0.2",
+    "@ampproject/toolbox-optimizer": "2.10.1",
+    "gulp": "^5.0.1",
     "through2": "^4.0.2"
   }
 }
