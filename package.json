@@ -46,7 +46,7 @@
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.0.0",
     "execa": "5.0.0",
-    "fetch-mock": "9.11.0",
+    "fetch-mock": "12.6.0",
     "file-url": "3.0.0",
     "html-minifier": "4.0.0",
     "husky": "5.2.0",
